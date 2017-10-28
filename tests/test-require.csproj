@@ -6,7 +6,7 @@
     <ProjectGuid>{CBF7EC5E-5A78-43ED-BCE1-96E7C5687162}</ProjectGuid>
     <OutputType>Library</OutputType>
     <NoStandardLibraries>false</NoStandardLibraries>
-    <AssemblyName>rharel.Require.Tests</AssemblyName>
+    <AssemblyName>rharel.Debug.Require.Tests</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />
@@ -35,7 +35,7 @@
     <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
   </PropertyGroup>
   <PropertyGroup>
-    <RootNamespace>rharel.Require.Tests</RootNamespace>
+    <RootNamespace>rharel.Debug.Tests</RootNamespace>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Microsoft.CSharp" />

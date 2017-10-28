@@ -5,7 +5,7 @@
     <ProjectGuid>{87F4F159-C480-47EA-B1ED-A2E928A229DE}</ProjectGuid>
     <OutputType>Library</OutputType>
     <NoStandardLibraries>false</NoStandardLibraries>
-    <AssemblyName>rharel.Require</AssemblyName>
+    <AssemblyName>rharel.Debug.Require</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />
@@ -30,7 +30,7 @@
     <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
   </PropertyGroup>
   <PropertyGroup>
-    <RootNamespace>rharel.Require</RootNamespace>
+    <RootNamespace>rharel.Debug</RootNamespace>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Microsoft.CSharp" />

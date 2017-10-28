@@ -1,7 +1,7 @@
 ﻿using NUnit.Framework;
 using System;
 
-namespace rharel.Require.Tests
+namespace rharel.Debug.Tests
 {
     [TestFixture]
     public sealed class RequireTest

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Diagnostics;
 
-namespace rharel.Require
+namespace rharel.Debug
 {
     /// <summary>
     /// A collection of assertion methods for debugging purposes.
